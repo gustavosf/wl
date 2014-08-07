@@ -19,7 +19,6 @@
   <link rel="import" href="bower_components/core-item/core-item.html">
   <link rel="import" href="bower_components/polymer-ui-card/polymer-ui-card.html">
   <link rel="import" href="bower_components/paper-tabs/paper-tabs.html">
-
 </head>
 
 <body unresolved>
@@ -29,10 +28,10 @@
     <core-header-panel navigation flex mode="seamed">
       <core-toolbar style="background-color: #526E9C; color: #fff;">Grupos</core-toolbar>
       <core-menu id="menu">
-        <core-item icon="settings" refer="agenda.html" label="Agenda"></core-item>
-        <core-item icon="settings" refer="groups/a/index.html" label="A) Costas + Peito"></core-item>
-        <core-item icon="settings" refer="groups/b/index.html" label="B) Ombro + Trapésio"></core-item>
-        <core-item icon="settings" refer="groups/c/index.html" label="C) Tríceps + Biceps"></core-item>
+        <core-item icon="settings" refer="groups/agenda.html" label="Agenda"></core-item>
+        <core-item icon="settings" refer="groups/index.php?c=A" label="A) Costas + Peito"></core-item>
+        <core-item icon="settings" refer="groups/index.php?c=B" label="B) Ombro + Trapésio"></core-item>
+        <core-item icon="settings" refer="groups/index.php?c=C" label="C) Tríceps + Biceps"></core-item>
       </core-menu>
     </core-header-panel>
     
@@ -51,6 +50,7 @@
       $(el).click(function () {
         $.get($(this).attr('refer'), function (data) {
           $('#content').html(data);
+          $('#content .tab-content div:not(:first-child)').hide();
         });
       });
     });

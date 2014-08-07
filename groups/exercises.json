@@ -1,0 +1,632 @@
+[
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Supino",
+		"regiao": "Alto",
+		"link": "http://www.exrx.net/WeightExercises/PectoralSternal/DBBenchPress.html",
+		"thumb": "DBBenchPress.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Supino Inclinado",
+		"regiao": "Alto",
+		"link": "http://www.exrx.net/WeightExercises/PectoralSternal/DBDeclineBenchPress.html",
+		"thumb": "DBDeclineBenchPress.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Abdução",
+		"regiao": "Alto",
+		"link": "http://www.exrx.net/WeightExercises/PectoralSternal/DBFly.html",
+		"thumb": "DBFly.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Abdução Inclinado",
+		"regiao": "Alto",
+		"link": "http://www.exrx.net/WeightExercises/PectoralSternal/DBDeclineFly.html",
+		"thumb": "DBDeclineFly.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Pullover",
+		"regiao": "Alto",
+		"link": "http://www.exrx.net/WeightExercises/PectoralSternal/DBPullover.html",
+		"thumb": "DBPullover.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Puxada Horizontal",
+		"regiao": "Dorsal",
+		"link": "http://www.exrx.net/WeightExercises/BackGeneral/DBBentOverRow.html",
+		"thumb": "DBBentoverRow.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Remada Deitado",
+		"regiao": "Dorsal",
+		"link": "http://www.exrx.net/WeightExercises/BackGeneral/DBLyingRow.html",
+		"thumb": "DBLyingRow.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Crucifixo Inverso Uni",
+		"regiao": "Dorsal",
+		"link": "http://muscul.az.free.fr/pt/db11.htm",
+		"thumb": "Md11h.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Crucifixo Inverso Sent.",
+		"regiao": "Dorsal",
+		"link": "http://muscul.az.free.fr/pt/db37.htm",
+		"thumb": "Ald02.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Elevação deitado",
+		"regiao": "Dorsal",
+		"link": "http://muscul.az.free.fr/pt/db31.htm",
+		"thumb": "CD05H.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Supino Reto",
+		"regiao": "Médio",
+		"link": "http://muscul.az.free.fr/pt/pb23.htm",
+		"thumb": "Mp07h.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Supino Mãos Juntas",
+		"regiao": "Médio",
+		"link": "http://muscul.az.free.fr/pt/peb33.htm",
+		"thumb": "Alpe15.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "A",
+		"ativo": false,
+		"nome": "Flexão",
+		"regiao": "",
+		"link": "",
+		"thumb": ""
+	},
+	{
+		"tipo": "A",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Barra Fixa",
+		"regiao": "Dorsal",
+		"link": "http://www.exrx.net/Stretches/BackGeneral/FixedBar.html",
+		"thumb": "FixedBar.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Sobre a Cabeça",
+		"regiao": "Dorsal",
+		"link": "http://www.exrx.net/Stretches/LatissimusDorsi/Overhead.html",
+		"thumb": "Overhead2.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Na Parede",
+		"regiao": "Dorsal",
+		"link": "http://www.exrx.net/Stretches/LatissimusDorsi/Wall.html",
+		"thumb": "Wall.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Na Porta",
+		"regiao": "Peito",
+		"link": "http://www.exrx.net/Stretches/ChestGeneral/Doorway.html",
+		"thumb": "Doorway.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "A",
+		"ativo": true,
+		"nome": "Na barra",
+		"regiao": "Peito",
+		"link": "http://www.exrx.net/Stretches/ChestGeneral/StraightArm.html",
+		"thumb": "StraightArm.jpg"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Encolhimento",
+		"regiao": "Trapésio",
+		"link": "http://www.exrx.net/WeightExercises/TrapeziusUpper/DBShrug.html",
+		"thumb": "DBShrug.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Supino Arnold",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidAnterior/DBArnoldPress.html",
+		"thumb": "DBArnoldPress.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Supino",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidAnterior/DBShoulderPress.html",
+		"thumb": "DBShoulderPress.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidAnterior/DBFrontRaise.html",
+		"thumb": "DBFrontRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Alternada",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidAnterior/DBAlternatingFrontRaise.html",
+		"thumb": "DBAlternatingFrontRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Inclinada",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBInclineLateralRaise.html",
+		"thumb": "DBInclineLateralRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBLateralRaise.html",
+		"thumb": "DBLateralRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Unilateral",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBOneArmLateralRaise.html",
+		"thumb": "DBOneArmLateralRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Deitado",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBLyingLateralRaise.html",
+		"thumb": "DBLyingLateralRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Colada",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBRaises.html",
+		"thumb": "DBRaise8.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Puxada Vertical",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBUprightRow.html",
+		"thumb": "DBUprightRow.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Deitado",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBLyingRearDeltRaise.html",
+		"thumb": "DBLyingRearDeltRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Puxada Deitado",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBLyingRearDeltRow.html",
+		"thumb": "DBLyingRearDeltRow.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Lateral Deitado",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBLyingRearLateralRaise.html",
+		"thumb": "DBLyingRearLateralRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Lateral",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBRearLateralRaise.html",
+		"thumb": "DBRearLateralRaise.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Puxada",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBRearDeltRow.html",
+		"thumb": "DBRearDeltRow.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Elevação Lateral Sentado",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBSeatedRearLateralRaise.html",
+		"thumb": "DBSeatedRearLateralRaise.gif"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento na Porta",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/Stretches/DeltoidAnterior/Doorway.html",
+		"thumb": "Doorway.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento Sentado",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/Stretches/DeltoidAnterior/Seated.html",
+		"thumb": "Seated.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento na Parede",
+		"regiao": "Frontal",
+		"link": "http://www.exrx.net/Stretches/DeltoidAnterior/Wall.html",
+		"thumb": "Wall2.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento Lateral",
+		"regiao": "Lateral",
+		"link": "http://www.exrx.net/Stretches/DeltoidLateral/SideDelt.html",
+		"thumb": "SideDelt.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento Barra Fixa",
+		"regiao": "Letaral",
+		"link": "http://www.exrx.net/Stretches/DeltoidLateral/FixedBar.html",
+		"thumb": "FixedBar2.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento Posterior",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/Stretches/DeltoidPosterior/RearDelt.html",
+		"thumb": "RearDelt.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "B",
+		"ativo": false,
+		"nome": "Alongamento Barra Fixa",
+		"regiao": "Posterior",
+		"link": "http://www.exrx.net/Stretches/DeltoidPosterior/FixedBar.html",
+		"thumb": "FixedBar3.jpg"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "KickBack",
+		"regiao": "Triceps",
+		"link": "http://www.exrx.net/WeightExercises/Triceps/DBKickback.html",
+		"thumb": "DBKickback.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Extensão Deitado",
+		"regiao": "Triceps",
+		"link": "http://www.exrx.net/WeightExercises/Triceps/DBLyingTriExt.html",
+		"thumb": "DBLyingTricepsExtension.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Extensão Sentado Unil.",
+		"regiao": "Triceps",
+		"link": "http://www.exrx.net/WeightExercises/Triceps/DBOneArmTriExt.html",
+		"thumb": "DBSeatedTricepsExtBackSupport.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Extensão Sentado",
+		"regiao": "Triceps",
+		"link": "http://www.exrx.net/WeightExercises/Triceps/DBTriExt.html",
+		"thumb": "DBTricepsExtension.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Flexão com Rotação",
+		"regiao": "Bíceps",
+		"link": "http://www.exrx.net/WeightExercises/Biceps/DBCurl.html",
+		"thumb": "DBCurl.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Flexão Concentrada",
+		"regiao": "Braquial",
+		"link": "http://www.exrx.net/WeightExercises/Brachialis/DBConcentrationCurl.html",
+		"thumb": "DBConcentrationCurl.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Flexão Martelo",
+		"regiao": "Braquial",
+		"link": "http://www.exrx.net/WeightExercises/Brachioradialis/DBHammerCurl.html",
+		"thumb": "DBHammerCurl.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Flexão de Pulso",
+		"regiao": "Pulso",
+		"link": "http://www.exrx.net/WeightExercises/WristFlexors/DBWristCurl.html",
+		"thumb": "DBWristCurl.gif"
+	},
+	{
+		"tipo": "E",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Flexão de Pulso Reversa",
+		"regiao": "Pulso",
+		"link": "http://www.exrx.net/WeightExercises/WristExtensors/DBReverseWristCurl.html",
+		"thumb": "DBReverseWristCurl.gif"
+	},
+	{
+		"tipo": "A",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Alongamento na Porta",
+		"regiao": "Biceps",
+		"link": "http://www.exrx.net/Stretches/Biceps/Doorway.html",
+		"thumb": "Doorway.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Esticada Sentado",
+		"regiao": "Biceps",
+		"link": "http://www.exrx.net/Stretches/Biceps/Seated.html",
+		"thumb": "Seated.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Esticada de Pé",
+		"regiao": "Biceps",
+		"link": "http://www.exrx.net/Stretches/Biceps/Standing.html",
+		"thumb": "Standing.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Alongamento na Parede",
+		"regiao": "Biceps",
+		"link": "http://www.exrx.net/Stretches/Biceps/Wall.html",
+		"thumb": "Wall3.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Acima da Cabeça",
+		"regiao": "Triceps",
+		"link": "http://www.exrx.net/Stretches/Triceps/Overhead.html",
+		"thumb": "Overhead.jpg"
+	},
+	{
+		"tipo": "A",
+		"classe": "C",
+		"ativo": false,
+		"nome": "Com Auxílio de Toalha",
+		"regiao": "Triceps",
+		"link": "http://www.exrx.net/Stretches/Triceps/Towel.html",
+		"thumb": "TowelTriceps.jpg"
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Normal",
+		"regiao": "Reto",
+		"link": "http://www.exrx.net/WeightExercises/RectusAbdominis/BWCrunch.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": true,
+		"nome": "Braços Cruzados",
+		"regiao": "Reto",
+		"link": "http://www.exrx.net/WeightExercises/RectusAbdominis/BWCrunchX.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Braços pra Baixo",
+		"regiao": "Reto",
+		"link": "http://www.exrx.net/WeightExercises/RectusAbdominis/BWCrunchAD.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Para Cima",
+		"regiao": "Reto",
+		"link": "http://www.exrx.net/WeightExercises/RectusAbdominis/BWCrunchUp.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Sit-Up",
+		"regiao": "Reto",
+		"link": "http://www.exrx.net/WeightExercises/RectusAbdominis/BWSitUp.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Angulado de Lado",
+		"regiao": "Oblícuo",
+		"link": "http://www.exrx.net/WeightExercises/Obliques/BWAngledSideBridge.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Twist deitado",
+		"regiao": "Oblícuo",
+		"link": "http://www.exrx.net/WeightExercises/Obliques/BWLyingTwist.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Ponte de Lado",
+		"regiao": "Oblícuo",
+		"link": "http://www.exrx.net/WeightExercises/Obliques/BWSideBridge.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": true,
+		"nome": "Normal Curvado",
+		"regiao": "Oblícuo",
+		"link": "http://www.exrx.net/WeightExercises/Obliques/BWTwistingCrunch.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Superman",
+		"regiao": "Costas",
+		"link": "http://www.exrx.net/WeightExercises/ErectorSpinae/Superman.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Hyperextensão",
+		"regiao": "Costas",
+		"link": "http://www.exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionHead.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Pássaro Cachorro",
+		"regiao": "Costas",
+		"link": "http://www.exrx.net/WeightExercises/ErectorSpinae/BWBirdDog.html",
+		"thumb": ""
+	},
+	{
+		"tipo": "E",
+		"classe": "M",
+		"ativo": false,
+		"nome": "Tábua Frontal",
+		"regiao": "Reto/I",
+		"link": "http://www.exrx.net/WeightExercises/RectusAbdominis/BWFrontPlank.html",
+		"thumb": ""
+	}
+]

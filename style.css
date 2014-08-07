@@ -26,17 +26,12 @@ core-scaffold[mode=cover] .content {
 polymer-ui-card {
 	display: block;
 	/*height: 200px;*/
-	/*width: 240px;*/
+	width: auto;
 	margin: 20px auto;
 	padding: 0px 30px 30px 30px;
 	overflow: auto;
 }
-
 .tab-content {
 	overflow: auto;
 	padding: 20px;
-}
-
-.tab-content div:not(:first-child) {
-	display: none;
 }
