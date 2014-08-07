@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+  <title>Musculação</title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta charset="utf-8">
+  
+  <link rel="stylesheet" href="style.css">
+
+  <script src="bower_components/platform/platform.js"></script>
+  <script src="//code.jquery.com/jquery-2.1.1.min.js"></script>
+  
+  <link rel="import" href="bower_components/core-scaffold/core-scaffold.html">
+  <link rel="import" href="bower_components/core-header-panel/core-header-panel.html">
+  <link rel="import" href="bower_components/core-menu/core-menu.html">
+  <link rel="import" href="bower_components/core-item/core-item.html">
+  <link rel="import" href="bower_components/polymer-ui-card/polymer-ui-card.html">
+  <link rel="import" href="bower_components/paper-tabs/paper-tabs.html">
+
+</head>
+
+<body unresolved>
+
+  <core-scaffold>
+  
+    <core-header-panel navigation flex mode="seamed">
+      <core-toolbar style="background-color: #526E9C; color: #fff;">Grupos</core-toolbar>
+      <core-menu id="menu">
+        <core-item icon="settings" refer="agenda.html" label="Agenda"></core-item>
+        <core-item icon="settings" refer="groups/a/index.html" label="A) Costas + Peito"></core-item>
+        <core-item icon="settings" refer="groups/b/index.html" label="B) Ombro + Trapésio"></core-item>
+        <core-item icon="settings" refer="groups/c/index.html" label="C) Tríceps + Biceps"></core-item>
+      </core-menu>
+    </core-header-panel>
+    
+    <div tool>Exercícios</div>
+    
+    <div class="content" id="content"></div>
+  
+  </core-scaffold>
+  
+</body>
+</html>
+
+<script>
+  $(document).ready(function () {
+    $("#menu core-item").each(function (i, el) {
+      $(el).click(function () {
+        $.get($(this).attr('refer'), function (data) {
+          $('#content').html(data);
+        });
+      });
+    });
+
+    $('#content').delegate('paper-tab', 'click', function () {      
+      $('#content .tab-content div').hide();
+      $('#content .tab-content #' + $(this).attr('ref')).show();
+    });
+
+  });
+</script>

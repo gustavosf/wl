@@ -1,0 +1,928 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"applicai",
+				"applicant_id"
+			],
+			[
+				"applica",
+				"application_type"
+			],
+			[
+				"appliation",
+				"application_type_id"
+			],
+			[
+				"aplica",
+				"application_type"
+			],
+			[
+				"application",
+				"application_type_id"
+			],
+			[
+				"STAT",
+				"STATUS_APPLYING"
+			],
+			[
+				"propert",
+				"property"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grupos/a.html",
+			"settings":
+			{
+				"buffer_size": 4783,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 109.0,
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"phpsh",
+				"SublimeREPL: PHPsh"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"settings user",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gust/dev/weight-lifting/dia-1.html",
+		"/home/gust/dev/weight-lifting/index.htmlh",
+		"/home/gust/dev/blog/config.js",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/tasks/scripter.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/todos-alunos-jan2012.csv",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/table-conversion.ods",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/composer.json",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/commented_out.yml",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/calendar.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/production/db.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/data/old/extracao_propg_ppg_docente-09-08-2013.ods",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/core/views/errors/production.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/admin.sublime-project",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/guzzle/guzzle/src/Guzzle/Parser/ParserRegistry.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/ppgc.sql",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/menu.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/email/notices/application_succeed.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/email/notices/pending_payment.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/classes/model/applicant/course.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/classes/controller/s3ae.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/session.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/info.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/status.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/classes/controller/selection.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/courses/list.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/model/student/plan/course.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/model/course.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/packages/orm/classes/model.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/model/applicant.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/ssp/classes/model/author.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/migrations/034_sss_views_applicant_selections.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/index.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/config/permissions.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/auth.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/sahi-client/src/Behat/SahiClient/Accessor/ByClassNameAccessor.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/composer/ClassLoader.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/guzzle/guzzle/src/Guzzle/Log/ClosureLogAdapter.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/list.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/classes/controller/courses.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3m/views/selection/conflicts.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/selection/help.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/js/plugins/forms/select2.min.js",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/tests/features/s3d/selecao.feature",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/run_selenium",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/courses/view.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/views/email/notices/selection_started.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/wiki/Requisitos-\\-Sistema-\\-Requisito-4.md",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/controller/supervisions.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/core/classes/controller.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/ssp/classes/controller/lattes.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/contacts.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/migrations/041_create_view_student_plans.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/migrations/018_views_supervisors.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/migrations/017_sss_views_dates.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/ssp/views/article/view_conference.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/guzzle/guzzle/src/Guzzle/Service/Command/LocationVisitor/Response/StatusCodeVisitor.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/packages/log/src/Monolog/Handler/FingersCrossed/ErrorLevelActivationStrategy.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/packages/log/src/Monolog/Handler/FingersCrossed/ActivationStrategyInterface.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/mink/src/Behat/Mink/Selector/SelectorInterface.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/controller/calendar.php",
+		"/home/gust/horarios.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/index.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/db/inscritos.sql",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/production/email.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/production/config.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/production/auth.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/config/Symfony/Component/Config/Definition/Processor.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/behat/src/Behat/Behat/DependencyInjection/Configuration/Configuration.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/config.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/date.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/email.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Extension/ConfigurationExtensionInterface.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/data/old/emails.csv",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/behat/src/Behat/Behat/Extension/ExtensionManager.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/process/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php",
+		"/mnt/Files/Dropbox/dump/notes.sga",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/classes/controller/notices.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/date.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/finder/Symfony/Component/Finder/Comparator/DateComparator.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/tests/features/bootstrap/FeatureContext.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/tests/features/s3d/conferencia.feature",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/config/Symfony/Component/Config/Tests/Fixtures/Configuration/ExampleConfiguration.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/css/dataTable.css",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/sahi-client/src/Behat/SahiClient/Accessor/DivAccessor.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/deploy-dry",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/views/email/admin/notices/msc_pending_payment.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/core/views/errors/php_error.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/views/email/admin/notices/pending_pep.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/views/errors/pending.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/behat/behat/src/Behat/Behat/Exception/PendingException.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/model/date.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorApplyBatched.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/public_html/admin/assets/js/application.js",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/public_html/admin/assets/css/application.css",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3m/classes/controller/extraction.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/controller/recommendation.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/ssf/classes/controller/scholarships/students.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/js/plugins/ui/calendar.min.js",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/calendar.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain/Fixed/Dark/calendar.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain/Fixed/Light/calendar.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain/Liquid/Dark/calendar.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain/Liquid/Light/calendar.html",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/views/dashboard/calendar.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/public_html/admin/assets/js/plugins/other/calendar.min.js",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/model/interview/report.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/views/msc/plan/reprove.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/db-restore",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/config/routes.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/views/applicant/view.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/controller/applicant.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3ae/config/routes.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/packages/log/src/Monolog/Handler/MongoDBHandler.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/brain-light/js/plugins/forms/listbox.js",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/tests/features/mestrado/pep/listagem-secretaria.feature",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/packages/log/Psr/Log/LoggerInterface.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/lang.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/model/supervisor.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/classes/model/user.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Resource/ModelTest.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/classes.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/ssp/config/routes.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/model/applicant/recommendation.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/vendor/symfony/config/Symfony/Component/Config/Definition/EnumNode.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/resources/data/old/inativos-extracao_propg_ppg_alunos-18-10-2013.xls",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/ssp/classes/model/conference.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/sss/classes/controller/sss.php",
+		"/home/gust/dev/ufrgs/inf/ppgc/admin/repo/admin/app/modules/s3d/classes/controller/interview.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(http.*?)$",
+			"{",
+			"\\$stats",
+			"status",
+			"^(.*?)\\t(.*)\\t(.*?)$",
+			"(.*?)\\t(.*)\\t(.*?)\\n\\t(.*?)\\t(.*?)$",
+			"(.*?)\\t(.*)\\t(.*?)$",
+			"(.*?)\\t(.*)\\t(.*?)\\n\\t(.*?)\\t(.*?)$",
+			"(.*?)\\t(.*)",
+			"(.*?)\\t(.*)\\n\\t(.*?)$",
+			"info",
+			"style",
+			"\\n^([^\\t]*)\\n",
+			"\\t\\n(.*?)\\n",
+			"table_name",
+			"__",
+			"sss::",
+			"sss",
+			"type\\.",
+			"mestrado",
+			"chzn",
+			"chosen",
+			"conference",
+			"99/99/9999",
+			"nature",
+			"ir",
+			" ",
+			"config",
+			"lattes->",
+			"phd_supervisor",
+			"flash",
+			"_is_new",
+			"function ",
+			"_array",
+			"as_array",
+			"array",
+			"ALGORITHM=UNDEFINED DEFINER=`ppgc`@`%.inf.ufrgs.br` SQL SECURITY DEFINER ",
+			"type",
+			"year",
+			"get_",
+			"year",
+			"type",
+			"breadc",
+			"getxml",
+			"fetchxml",
+			"client",
+			"curl",
+			"generate",
+			"cache_dir",
+			"season",
+			"__get",
+			"season",
+			"upload",
+			"Development Value",
+			"development"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<a href=\"\\1\" target=\"_blank\">\\1</a>",
+			"<tr><td>\\1</td><td>\\2</td><td>\\3</td></tr>",
+			"<tr><td rowspan=2>\\1</td><td>\\2</td><td>\\3</td></tr><tr><td>\\4</td><td>\\5</td></tr>",
+			"<tr><td>\\1</td><td>\\2</td><td>\\3</td></tr>",
+			"<tr><td>\\1</td><td>\\2</td><td>\\3</td></tr><tr><td>\\4</td><td>\\5</td></tr>",
+			"<tr><td rowspan=2>\\1</td><td>\\2</td><td>\\3</td></tr><tr><td>\\1</td><td>\\6</td></tr>",
+			"<tr><td>\\1</td><td>\\2</td><td>\\3</td></tr><tr><td>\\4</td><td>\\6</td></tr>",
+			"<tr><td>\\1</td><td>\\2</td></tr>",
+			"<tr><td rowpspan=2>\\1</td><td>\\2</td></tr><tr><td>\\3</td></tr>",
+			"\\1\\n",
+			"\\t\\1\\n",
+			"chosen",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								793,
+								793
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "grupos/a.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": ".wl.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"composer",
+				"repo/composer.json"
+			],
+			[
+				"proddb",
+				"repo/admin/app/config/production/db.php"
+			],
+			[
+				"menu",
+				"repo/admin/app/config/menu.php"
+			],
+			[
+				"s3aeinfo",
+				"repo/admin/app/modules/s3ae/views/info.php"
+			],
+			[
+				"modelcourse",
+				"repo/admin/app/modules/s3ae/classes/model/applicant/course.php"
+			],
+			[
+				"modelapplicat",
+				"repo/admin/app/modules/sss/classes/model/applicant.php"
+			],
+			[
+				"s3aestatus",
+				"repo/admin/app/modules/s3ae/views/status.php"
+			],
+			[
+				"s3aeselect",
+				"repo/admin/app/modules/s3ae/classes/controller/selection.php"
+			],
+			[
+				"classauth",
+				"repo/admin/app/classes/auth.php"
+			],
+			[
+				"s3aepermiss",
+				"repo/admin/app/modules/s3ae/config/permissions.php"
+			],
+			[
+				"s3aeindex",
+				"repo/admin/app/modules/s3ae/views/index.php"
+			],
+			[
+				"s3aelist",
+				"repo/admin/app/modules/s3ae/views/list.php"
+			],
+			[
+				"s3aeview",
+				"repo/admin/app/modules/s3ae/views/list.php"
+			],
+			[
+				"s3aeselection",
+				"repo/admin/app/modules/s3ae/classes/controller/selection.php"
+			],
+			[
+				"calendar",
+				"repo/admin/app/classes/calendar.php"
+			],
+			[
+				"configproducemail",
+				"repo/admin/app/config/production/email.php"
+			],
+			[
+				"configemail",
+				"repo/admin/app/config/email.php"
+			],
+			[
+				"modelcalendar",
+				"repo/admin/app/modules/sss/classes/controller/calendar.php"
+			],
+			[
+				"s3aeselec",
+				"repo/admin/app/modules/s3ae/classes/controller/selection.php"
+			],
+			[
+				"configdate",
+				"repo/admin/app/config/date.php"
+			],
+			[
+				"pendingpayment",
+				"repo/admin/app/modules/s3ae/views/email/notices/pending_payment.php"
+			],
+			[
+				"pendingpaymen",
+				"repo/admin/app/views/email/admin/notices/msc_pending_payment.php"
+			],
+			[
+				"modeldate",
+				"repo/admin/app/modules/sss/classes/model/date.php"
+			],
+			[
+				"modelapplicant",
+				"repo/admin/app/modules/sss/classes/model/applicant.php"
+			],
+			[
+				"s3aenot",
+				"repo/admin/app/modules/s3ae/classes/controller/notices.php"
+			],
+			[
+				"apply",
+				"repo/admin/app/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIteratorApplyBatched.php"
+			],
+			[
+				"controlercalenda",
+				"repo/admin/app/modules/sss/classes/controller/calendar.php"
+			],
+			[
+				"applicantview",
+				"repo/admin/app/modules/sss/views/applicant/view.php"
+			],
+			[
+				"courselist",
+				"repo/admin/app/modules/s3ae/views/courses/list.php"
+			],
+			[
+				"s3aeroutes",
+				"repo/admin/app/modules/s3ae/config/routes.php"
+			],
+			[
+				"s3aecourse",
+				"repo/admin/app/modules/s3ae/classes/controller/courses.php"
+			],
+			[
+				"modelsupervisor",
+				"repo/admin/app/classes/model/supervisor.php"
+			],
+			[
+				"s3aeroute",
+				"repo/admin/app/modules/s3ae/config/routes.php"
+			],
+			[
+				"modelroute",
+				"repo/admin/app/modules/ssp/config/routes.php"
+			],
+			[
+				"s3aepermis",
+				"repo/admin/app/modules/s3ae/config/permissions.php"
+			],
+			[
+				"sss",
+				"repo/admin/app/modules/sss/classes/controller/sss.php"
+			],
+			[
+				"s3ae",
+				"repo/admin/app/modules/s3ae/classes/controller/s3ae.php"
+			],
+			[
+				"classcalendar",
+				"repo/admin/app/classes/calendar.php"
+			],
+			[
+				"ormmodel",
+				"repo/admin/packages/orm/classes/model.php"
+			],
+			[
+				"viewdate",
+				"repo/admin/app/migrations/017_sss_views_dates.php"
+			],
+			[
+				"interviewview",
+				"repo/admin/app/modules/s3d/views/interview/view.php"
+			],
+			[
+				"controllerinterview",
+				"repo/admin/app/modules/s3d/classes/controller/interview.php"
+			],
+			[
+				"controllerapplica",
+				"repo/admin/app/modules/sss/classes/controller/applicant.php"
+			],
+			[
+				"application",
+				"repo/admin/app/modules/sss/lang/pt/application.php"
+			],
+			[
+				"ssslang",
+				"repo/admin/app/modules/sss/lang/pt/application.php"
+			],
+			[
+				"controllercalenda",
+				"repo/admin/app/modules/sss/classes/controller/calendar.php"
+			],
+			[
+				"lang",
+				"repo/admin/app/classes/lang.php"
+			],
+			[
+				"calendarnew",
+				"repo/admin/app/modules/sss/views/calendar/new.php"
+			],
+			[
+				"ssspermiss",
+				"repo/admin/app/modules/sss/config/permissions.php"
+			],
+			[
+				"sssroute",
+				"repo/admin/app/modules/sss/config/routes.php"
+			],
+			[
+				"controllercalendar",
+				"repo/admin/app/modules/sss/classes/controller/calendar.php"
+			],
+			[
+				"calendarphp",
+				"repo/admin/app/classes/calendar.php"
+			],
+			[
+				"applica",
+				"repo/public_html/admin/assets/js/application.js"
+			],
+			[
+				"tasks",
+				"repo/admin/app/tasks/scripter.php"
+			],
+			[
+				"applicjs",
+				"repo/public_html/admin/assets/js/application.js"
+			],
+			[
+				"modellattes",
+				"repo/admin/app/modules/ssp/classes/model/lattes.php"
+			],
+			[
+				"modelqualisconference",
+				"repo/admin/app/modules/ssp/classes/model/qualis/conference.php"
+			],
+			[
+				"modelconference",
+				"repo/admin/app/modules/ssp/classes/model/conference.php"
+			],
+			[
+				"viewconfere",
+				"repo/admin/app/modules/ssp/views/article/view_conference.php"
+			],
+			[
+				"modeljournal",
+				"repo/admin/app/modules/ssp/classes/model/journal.php"
+			],
+			[
+				"view_journal",
+				"repo/admin/app/modules/ssp/views/article/view_journal.php"
+			],
+			[
+				"modelqualisconfere",
+				"repo/admin/app/modules/ssp/classes/model/qualis/conference.php"
+			],
+			[
+				"viewconference",
+				"repo/admin/app/modules/ssp/views/article/view_conference.php"
+			],
+			[
+				"ssproute",
+				"repo/admin/app/modules/ssp/config/routes.php"
+			],
+			[
+				"ssppermiss",
+				"repo/admin/app/modules/ssp/config/permissions.php"
+			],
+			[
+				"ssproutes",
+				"repo/admin/app/modules/ssp/config/routes.php"
+			],
+			[
+				"sspcontrollerlattes",
+				"repo/admin/app/modules/ssp/classes/controller/lattes.php"
+			],
+			[
+				"ssp",
+				"repo/admin/app/modules/ssp/classes/controller/ssp.php"
+			],
+			[
+				"modelqualisjourn",
+				"repo/admin/app/modules/ssp/classes/model/qualis/journal.php"
+			],
+			[
+				"qualisjorunal",
+				"repo/admin/app/modules/ssp/classes/model/qualis/journal.php"
+			],
+			[
+				"routes",
+				"repo/admin/app/config/routes.php"
+			],
+			[
+				"controllerlattes",
+				"repo/admin/app/modules/ssp/classes/controller/lattes.php"
+			],
+			[
+				"modeljorua",
+				"repo/admin/app/modules/ssp/classes/model/journal.php"
+			],
+			[
+				"modelauthor",
+				"repo/admin/app/modules/ssp/classes/model/author.php"
+			],
+			[
+				"journal",
+				"repo/admin/app/modules/ssp/classes/model/journal.php"
+			],
+			[
+				"qualisjournal",
+				"repo/admin/app/modules/ssp/classes/model/qualis/journal.php"
+			],
+			[
+				"ssppermisso",
+				"repo/admin/app/modules/ssp/config/permissions.php"
+			],
+			[
+				"modeluser",
+				"repo/admin/app/classes/model/user.php"
+			],
+			[
+				"sspviewvie",
+				"repo/admin/app/modules/ssp/views/view.php"
+			],
+			[
+				"sspcontrollerssp",
+				"repo/admin/app/modules/ssp/classes/controller/ssp.php"
+			],
+			[
+				"controllerlattes.php",
+				"repo/admin/app/modules/ssp/classes/controller/lattes.php"
+			],
+			[
+				"session",
+				"repo/admin/app/classes/session.php"
+			],
+			[
+				"model",
+				"repo/admin/packages/orm/classes/model.php"
+			],
+			[
+				"modelapplica",
+				"repo/admin/app/modules/sss/classes/model/applicant.php"
+			],
+			[
+				"deploy-dr",
+				"deploy-dry"
+			],
+			[
+				"deploy-go",
+				"deploy-go"
+			],
+			[
+				"applicacss",
+				"repo/public_html/admin/assets/css/application.css"
+			],
+			[
+				"menu.php",
+				"repo/admin/app/config/menu.php"
+			],
+			[
+				"sspview",
+				"repo/admin/app/modules/ssp/views/lattes/load.php"
+			],
+			[
+				"ssssearch",
+				"repo/admin/app/modules/sss/views/search.php"
+			],
+			[
+				"client",
+				"resources/TvDb/src/Moinax/TvDb/Client.php"
+			],
+			[
+				"curlexp",
+				"resources/TvDb/src/Moinax/TvDb/CurlException.php"
+			],
+			[
+				"configym",
+				"config.yml"
+			],
+			[
+				"feedr.php",
+				"feedr.php"
+			],
+			[
+				"feedr.rb",
+				"feedr.rb"
+			],
+			[
+				"last",
+				"lastRSS.php"
+			],
+			[
+				"feed",
+				"feedr.php"
+			],
+			[
+				"episode",
+				"lib/src/Moinax/TvDb/Episode.php"
+			],
+			[
+				"serie",
+				"lib/src/Moinax/TvDb/Serie.php"
+			],
+			[
+				"inde",
+				"lib/examples/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"admin",
+				"~/dev/ufrgs/inf/ppgc/admin/admin.sublime-project"
+			],
+			[
+				"appl",
+				"~/dev/ufrgs/inf/ppgc/applying/applying.sublime-workspace"
+			],
+			[
+				"apply",
+				"~/dev/ufrgs/inf/ppgc/applying/applying.sublime-workspace"
+			],
+			[
+				"sal",
+				"~/dev/ufrgs/inf/sal/sal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
