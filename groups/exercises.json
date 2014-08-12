@@ -112,9 +112,9 @@
 		"classe": "A",
 		"ativo": false,
 		"nome": "Flexão",
-		"regiao": "",
-		"link": "",
-		"thumb": ""
+		"regiao": "Peito",
+		"link": "http://www.exrx.net/WeightExercises/PectoralSternal/BWPushup.html",
+		"thumb": "BWPushupWide.gif"
 	},
 	{
 		"tipo": "A",
@@ -182,7 +182,7 @@
 	{
 		"tipo": "E",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Supino",
 		"regiao": "Frontal",
 		"link": "http://www.exrx.net/WeightExercises/DeltoidAnterior/DBShoulderPress.html",
@@ -218,7 +218,7 @@
 	{
 		"tipo": "E",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Elevação",
 		"regiao": "Lateral",
 		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBLateralRaise.html",
@@ -254,7 +254,7 @@
 	{
 		"tipo": "E",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Puxada Vertical",
 		"regiao": "Lateral",
 		"link": "http://www.exrx.net/WeightExercises/DeltoidLateral/DBUprightRow.html",
@@ -299,7 +299,7 @@
 	{
 		"tipo": "E",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Puxada",
 		"regiao": "Posterior",
 		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBRearDeltRow.html",
@@ -308,7 +308,7 @@
 	{
 		"tipo": "E",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Elevação Lateral Sentado",
 		"regiao": "Posterior",
 		"link": "http://www.exrx.net/WeightExercises/DeltoidPosterior/DBSeatedRearLateralRaise.html",
@@ -317,7 +317,7 @@
 	{
 		"tipo": "A",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Alongamento na Porta",
 		"regiao": "Frontal",
 		"link": "http://www.exrx.net/Stretches/DeltoidAnterior/Doorway.html",
@@ -326,7 +326,7 @@
 	{
 		"tipo": "A",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Alongamento Sentado",
 		"regiao": "Frontal",
 		"link": "http://www.exrx.net/Stretches/DeltoidAnterior/Seated.html",
@@ -344,7 +344,7 @@
 	{
 		"tipo": "A",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Alongamento Lateral",
 		"regiao": "Lateral",
 		"link": "http://www.exrx.net/Stretches/DeltoidLateral/SideDelt.html",
@@ -362,7 +362,7 @@
 	{
 		"tipo": "A",
 		"classe": "B",
-		"ativo": false,
+		"ativo": true,
 		"nome": "Alongamento Posterior",
 		"regiao": "Posterior",
 		"link": "http://www.exrx.net/Stretches/DeltoidPosterior/RearDelt.html",
