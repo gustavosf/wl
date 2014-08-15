@@ -1,3 +1,7 @@
 resources
 bower_components
 .wl.sublime-*
+
+# cordova
+platforms
+plugins
