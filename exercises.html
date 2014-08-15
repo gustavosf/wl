@@ -1,0 +1,18 @@
+<paper-tabs selected="0" style="background-color: #526E9C; color: #fff;">
+	<paper-tab ref="stretches">Alongamentos</paper-tab>
+	<paper-tab ref="exercises">Exercícios</paper-tab>
+</paper-tabs>
+
+<div class="tab-content">
+	<div id="stretches" horizontal layout wrap></div>
+	<div id="exercises" horizontal layout wrap></div>	
+</div>
+
+<script id="exercise-template" type="text/x-handlebars-template">
+	<polymer-ui-card>
+		<h3>{{nome}} <small style="font-size:70%">({{regiao}})</small></h3>
+		<a href="{{link}}" target="_blank">
+			<img src="data/img/{{thumb}}" alt=""/>
+		</a>
+	</polymer-ui-card>
+</script>

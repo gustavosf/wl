@@ -15,7 +15,7 @@
   <script src="bower_components/platform/platform.js"></script>
   <script src="bower_components/jquery/dist/jquery.min.js"></script>
   <script src="bower_components/handlebars/handlebars.min.js"></script>
-  
+
   <link rel="stylesheet" href="style.css">
  
   <link rel="import" href="bower_components/core-scaffold/core-scaffold.html">
@@ -34,11 +34,11 @@
       <core-toolbar style="background-color: #526E9C; color: #fff;">Grupos</core-toolbar>
       <core-menu id="menu">
         <core-item icon="settings" refer="agenda.html" label="Agenda"></core-item>
-        <core-item icon="settings" refer="groups.html?c=A" label="A) Costas + Peito"></core-item>
-        <core-item icon="settings" refer="groups.html?c=B" label="B) Ombro + Trapésio"></core-item>
-        <core-item icon="settings" refer="groups.html?c=C" label="C) Tríceps + Biceps"></core-item>
-        <core-item icon="settings" refer="sessions.html?s=0" label="Sessão 1"></core-item>
-        <core-item icon="settings" refer="sessions.html?s=1" label="Sessão 2"></core-item>
+        <core-item icon="settings" refer="exercises.html" group="A" label="A) Costas + Peito"></core-item>
+        <core-item icon="settings" refer="exercises.html" group="B" label="B) Ombro + Trapésio"></core-item>
+        <core-item icon="settings" refer="exercises.html" group="C" label="C) Tríceps + Biceps"></core-item>
+        <core-item icon="settings" refer="exercises.html" serie="0" label="Sessão 1"></core-item>
+        <core-item icon="settings" refer="exercises.html" serie="1" label="Sessão 2"></core-item>
       </core-menu>
     </core-header-panel>
     
@@ -50,10 +50,32 @@
   
   <script>
     $(document).ready(function () {
+      // preload data
+      var exercises = $.ajax({url: 'data/exercises.json', async: false, dataType: 'json'}).responseJSON;
+      var sessions = $.ajax({url: 'data/sessions.json', async: false, dataType: 'json'}).responseJSON;
+
       $("#menu core-item").each(function (i, el) {
         $(el).click(function () {
+          var grupo = $(this).attr('group'),
+              serie = $(this).attr('serie'),
+              list = $.grep(exercises, function (e) {
+                if (serie) {
+                  for (i in sessions[serie]) if (sessions[serie].hasOwnProperty(i)) {
+                    if (e.nome == sessions[serie][i][1] && e.classe == sessions[serie][i][0])
+                      return true;
+                  }
+                  return false;
+                }
+                return grupo != undefined && e.classe == grupo;
+              });
+
           $.get($(this).attr('refer'), function (data) {
             $('#content').html(data);
+            $(list).each(function (i, exercise) {
+              var tmpl = Handlebars.compile($('#exercise-template').html());
+              $(exercise.tipo == 'E' ? '#exercises' : '#stretches').append(tmpl(exercise));
+            });
+
             $('#content .tab-content div:not(:first-child)').hide();
           });
         });
