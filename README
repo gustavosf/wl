@@ -1,0 +1,6 @@
+Versão do APP para rodar em dispositivos mobile utilizanodo o Apache Cordova
+
+Para compilar:
+- cordova platform add android
+- cordova build
+- cordova run android ou cordova emulate android
